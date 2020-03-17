@@ -15,7 +15,8 @@ $bold
 All In One Tool For Info Gathering, SQL Vulnerability Scannig and Crawling
 $fgreen
 ---------------------------------------------------------------------------
-             [+] Coded By - Majid kalantari
+             [+] Coded By - Majid kalantari 
+	     		 Mob : 09131763931
 			 http://t.me/sagheb
             $lblue [+] Version - 1.0.0
 ---------------------------------------------------------------------------
